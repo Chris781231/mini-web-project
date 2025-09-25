@@ -7,3 +7,5 @@ Ez egy egyszerű gyakorló projekt Git branching és Pull Request workflow elsaj
 - Hozz létre egy új branchet.
 - Készíts apró módosításokat (pl. README frissítés, CSS változtatás).
 - Commitold, pushold, majd nyiss Pull Requestet.
+
+Ezt a PR-t tanulási céllal készítettem.
